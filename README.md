@@ -13,8 +13,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 🛠️ How to Use This Project
 1. Clone the repository*
 
-git clone https://github.com/sinolipraveesha/Customer_ehaviour_analysis.git
-cd 
+git clone https://github.com/sinolipraveesha/Customer_behaviour_analysis
+
+cd  Customer_behaviour_analysis
 
 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook*
 
